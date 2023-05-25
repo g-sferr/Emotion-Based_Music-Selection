@@ -1,0 +1,24 @@
+{
+  "development_system": {
+    "ip": "localhost",
+    "port": 9999
+  },
+  "execution_system": {
+    "ip": "",
+    "port":
+  },
+  "validation_error": 0.01,
+  "test_error": 0.02,
+  "accuracy": 0.9,
+  "tolerance_validation_error": 0.2,
+  "tolerance_test_error": 0.2,
+  "min_value_neurons": 4,
+  "max_value_neurons": 30,
+  "step_neurons": 2,
+  "min_value_layers": 1,
+  "max_value_layers": 3,
+  "step_layers": 1,
+  "start_number_epochs": 70,
+  "execution_mode": "first_training",
+  "testing": false
+}
